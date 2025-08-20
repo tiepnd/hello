@@ -1,10 +1,1 @@
 /// <reference types="vite/client" />
-
-
-import { defineConfig } from 'vite'
-import vue from '@vitejs/plugin-vue'
-
-export default defineConfig({
-  plugins: [vue()],
-  base: '/hello/',   // ⚠️ thay <repo-name> bằng tên repo GitHub của bạn
-})
