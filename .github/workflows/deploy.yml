@@ -1,31 +1,50 @@
-name: Deploy Vue app to GitHub Pages
+name: Deploy Vue 3 + Vite to GitHub Pages
 
 on:
   push:
     branches:
-      - main  # deploy khi push lên nhánh main
+      - main           # Tự động deploy mỗi khi push lên nhánh main
+  workflow_dispatch:   # Cho phép bấm "Run workflow" thủ công
+
+permissions:
+  contents: write      # Cần quyền push lên branch gh-pages
+
+concurrency:
+  group: "pages-${{ github.ref }}"
+  cancel-in-progress: true
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # tốt cho các action đẩy lên gh-pages
 
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: '20'   # dùng Node 18+ đều được; ví dụ 20 LTS
+          cache: 'npm'
 
       - name: Install dependencies
-        run: npm install
+        run: |
+          npm ci || npm install
 
-      - name: Build project
+      - name: Build
         run: npm run build
 
+      # (Tùy chọn) SPA fallback cho Vue Router history mode:
+      - name: Add 404.html as SPA fallback
+        run: cp dist/index.html dist/404.html
+
+      # (Tùy chọn) Nếu bạn dùng custom domain, bỏ comment dòng 'cname'
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
+          publish_branch: gh-pages
+          # cname: yourdomain.com
