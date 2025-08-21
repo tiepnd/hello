@@ -1,10 +1,12 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import Home from './pages/Home.vue'
 import DeepTalk from './pages/DeepTalk.vue'
+import QuestionSelection from './pages/QuestionSelection.vue'
 
 const routes = [
   { path: '/', component: Home },
-  { path: '/deeptalk', component: DeepTalk },
+  { path: '/select-questions', name: 'question-selection', component: QuestionSelection },
+  { path: '/deeptalk/:setId', name: 'deeptalk-set', component: DeepTalk },
 ]
 
 const router = createRouter({
