@@ -29,7 +29,7 @@
              class="space-y-5"
            >
              <div 
-               v-for="(sentence, index) in shuffledSentences" 
+               v-for="sentence in shuffledSentences" 
                :key="sentence"
                class="bg-white hover:bg-blue-50 border-2 border-gray-300 hover:border-blue-400 rounded-xl p-8 cursor-move transition-all duration-300 shadow-md hover:shadow-xl transform hover:-translate-y-1 min-h-[50px] flex items-center"
              >
@@ -185,7 +185,7 @@ const checkAnswer = () => {
   isChecking.value = true
   
   // Get the current order of sentences (1-based indices)
-  const currentOrder = shuffledSentences.value.map((sentence, index) => {
+  const currentOrder = shuffledSentences.value.map((sentence) => {
     const originalIndex = currentQuestion.value.sentences.indexOf(sentence)
     return originalIndex + 1
   })
