@@ -5,6 +5,8 @@
     <div class="flex flex-col space-y-4 w-full max-w-sm">
       <button class="py-3 px-6 bg-white text-blue-600 font-semibold rounded-full shadow-lg transform transition-transform duration-300 hover:scale-105 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-blue-300 focus:ring-opacity-75"
         @click="router.push('/select-questions')">Deep Talk Questions</button>
+      <button class="py-3 px-6 bg-white text-blue-600 font-semibold rounded-full shadow-lg transform transition-transform duration-300 hover:scale-105 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-blue-300 focus:ring-opacity-75"
+        @click="router.push('/english-learning')">English Learning</button>
     </div>
   </div>
 </template>

@@ -1,0 +1,322 @@
+[
+  {
+    "question": "It is a ... day.",
+    "correctAnswer": "long",
+    "options": ["long", "detail", "copy", "client"]
+  },
+  {
+    "question": "I need the ... of the report.",
+    "correctAnswer": "detail",
+    "options": ["detail", "long", "busy", "copy"]
+  },
+  {
+    "question": "Can you print a ... for me?",
+    "correctAnswer": "copy",
+    "options": ["copy", "client", "busy", "long"]
+  },
+  {
+    "question": "I am ... with my work.",
+    "correctAnswer": "busy",
+    "options": ["busy", "long", "detail", "copy"]
+  },
+  {
+    "question": "I will have meetings with my ....",
+    "correctAnswer": "client",
+    "options": ["client", "busy", "copy", "detail"]
+  },
+  {
+    "question": "I saw some shows in the ... of one store.",
+    "correctAnswer": "window",
+    "options": ["window", "buy", "market", "cake"]
+  },
+  {
+    "question": "I didn't ... it.",
+    "correctAnswer": "buy",
+    "options": ["buy", "window", "cake", "market"]
+  },
+  {
+    "question": "I buy some food at the ....",
+    "correctAnswer": "market",
+    "options": ["market", "cake", "buy", "window"]
+  },
+  {
+    "question": "I ate ....",
+    "correctAnswer": "cake",
+    "options": ["cake", "buy", "window", "market"]
+  },
+  {
+    "question": "I ... a program on TV.",
+    "correctAnswer": "watched",
+    "options": ["watched", "buy", "window", "cake"]
+  },
+  {
+    "question": "I ... in a flat.",
+    "correctAnswer": "live",
+    "options": ["live", "share", "class", "drive"]
+  },
+  {
+    "question": "I ... it with my friend.",
+    "correctAnswer": "share",
+    "options": ["share", "live", "drive", "cook"]
+  },
+  {
+    "question": "We are in the same ....",
+    "correctAnswer": "class",
+    "options": ["class", "live", "cook", "share"]
+  },
+  {
+    "question": "We ... to work.",
+    "correctAnswer": "drive",
+    "options": ["drive", "cook", "class", "share"]
+  },
+  {
+    "question": "We like to ... dinner.",
+    "correctAnswer": "cook",
+    "options": ["cook", "class", "drive", "share"]
+  },
+  {
+    "question": "My colleague is ....",
+    "correctAnswer": "sick",
+    "options": ["sick", "read", "meeting", "ringing"]
+  },
+  {
+    "question": "I need to ... some reports.",
+    "correctAnswer": "read",
+    "options": ["read", "drink", "sick", "meeting"]
+  },
+  {
+    "question": "I have an important ... with a client.",
+    "correctAnswer": "meeting",
+    "options": ["meeting", "ringing", "read", "drink"]
+  },
+  {
+    "question": "The phone in my office is ... all the time.",
+    "correctAnswer": "ringing",
+    "options": ["ringing", "sick", "drink", "meeting"]
+  },
+  {
+    "question": "I need to take a break and ... coffee.",
+    "correctAnswer": "drink",
+    "options": ["drink", "read", "meeting", "sick"]
+  },
+  {
+    "question": "I start ... in the morning.",
+    "correctAnswer": "early",
+    "options": ["early", "lunch", "leave", "sleepy"]
+  },
+  {
+    "question": "I have ....",
+    "correctAnswer": "lunch",
+    "options": ["lunch", "early", "leave", "sleepy"]
+  },
+  {
+    "question": "I ... the office.",
+    "correctAnswer": "leave",
+    "options": ["leave", "car", "sleepy", "lunch"]
+  },
+  {
+    "question": "I go home in my new ....",
+    "correctAnswer": "car",
+    "options": ["car", "leave", "early", "lunch"]
+  },
+  {
+    "question": "I go to bed when I feel ....",
+    "correctAnswer": "sleepy",
+    "options": ["sleepy", "car", "lunch", "leave"]
+  },
+  {
+    "question": "Everyone is ....",
+    "correctAnswer": "friendly",
+    "options": ["friendly", "walk", "first", "speak"]
+  },
+  {
+    "question": "I can ... to my class.",
+    "correctAnswer": "walk",
+    "options": ["walk", "friendly", "speak", "together"]
+  },
+  {
+    "question": "I met her for the ... time.",
+    "correctAnswer": "first",
+    "options": ["first", "walk", "friendly", "cook"]
+  },
+  {
+    "question": "She can ... five languages.",
+    "correctAnswer": "speak",
+    "options": ["speak", "walk", "together", "friendly"]
+  },
+  {
+    "question": "We eat dinner ....",
+    "correctAnswer": "together",
+    "options": ["together", "walk", "speak", "first"]
+  },
+  {
+    "question": "I imagine you don't want to ... this.",
+    "correctAnswer": "miss",
+    "options": ["miss", "called", "ready", "meet"]
+  },
+  {
+    "question": "I ... you earlier, but you were not home.",
+    "correctAnswer": "called",
+    "options": ["called", "ready", "meet", "miss"]
+  },
+  {
+    "question": "Can you be ... before 7 pm?",
+    "correctAnswer": "ready",
+    "options": ["ready", "miss", "called", "meet"]
+  },
+  {
+    "question": "Let's ... before dinner.",
+    "correctAnswer": "meet",
+    "options": ["meet", "ready", "called", "miss"]
+  },
+  {
+    "question": "The budget doesn't ....",
+    "correctAnswer": "balance",
+    "options": ["balance", "statement", "think", "slowly"]
+  },
+  {
+    "question": "Could you get the financial ....?",
+    "correctAnswer": "statement",
+    "options": ["statement", "balance", "before", "think"]
+  },
+  {
+    "question": "I ... it will help.",
+    "correctAnswer": "think",
+    "options": ["think", "balance", "before", "slowly"]
+  },
+  {
+    "question": "Read the information ...., not quickly.",
+    "correctAnswer": "slowly",
+    "options": ["slowly", "before", "statement", "balance"]
+  },
+  {
+    "question": "Send me the results ... you go home, not after.",
+    "correctAnswer": "before",
+    "options": ["before", "slowly", "think", "balance"]
+  },
+  {
+    "question": "The water is ....",
+    "correctAnswer": "clear",
+    "options": ["clear", "sun", "enjoyable", "working"]
+  },
+  {
+    "question": "The ... is out.",
+    "correctAnswer": "sun",
+    "options": ["sun", "clear", "working", "read"]
+  },
+  {
+    "question": "I have an ... holiday.",
+    "correctAnswer": "enjoyable",
+    "options": ["enjoyable", "clear", "read", "sun"]
+  },
+  {
+    "question": "After ... so hard.",
+    "correctAnswer": "working",
+    "options": ["working", "read", "clear", "enjoyable"]
+  },
+  {
+    "question": "I hope to ... your letter.",
+    "correctAnswer": "read",
+    "options": ["read", "clear", "working", "sun"]
+  },
+  {
+    "question": "The weather is ....",
+    "correctAnswer": "great",
+    "options": ["great", "boat", "then", "drive"]
+  },
+  {
+    "question": "We are on the ....",
+    "correctAnswer": "boat",
+    "options": ["boat", "drive", "then", "too"]
+  },
+  {
+    "question": "We eat dinner; ... we go to church.",
+    "correctAnswer": "then",
+    "options": ["then", "great", "too", "boat"]
+  },
+  {
+    "question": "We are going to ... around.",
+    "correctAnswer": "drive",
+    "options": ["drive", "boat", "too", "then"]
+  },
+  {
+    "question": "I hope the weather isn't ... hot.",
+    "correctAnswer": "too",
+    "options": ["too", "great", "drive", "then"]
+  },
+  {
+    "question": "I am living with a family ... the city.",
+    "correctAnswer": "near",
+    "options": ["near", "friendly", "practice", "read"]
+  },
+  {
+    "question": "The children are ... to me.",
+    "correctAnswer": "friendly",
+    "options": ["friendly", "near", "so", "practice"]
+  },
+  {
+    "question": "Seamus and Agnes ... speaking English with me.",
+    "correctAnswer": "practice",
+    "options": ["practice", "read", "near", "friendly"]
+  },
+  {
+    "question": "Sometimes, I ... to Seamus and Agnes.",
+    "correctAnswer": "read",
+    "options": ["read", "friendly", "so", "practice"]
+  },
+  {
+    "question": "I hate the food, ..., yesterday I ate out.",
+    "correctAnswer": "so",
+    "options": ["so", "near", "practice", "friendly"]
+  },
+  {
+    "question": "It is ... what I like.",
+    "correctAnswer": "just",
+    "options": ["just", "too", "some", "give"]
+  },
+  {
+    "question": "And it is the perfect color, ....",
+    "correctAnswer": "too",
+    "options": ["too", "just", "some", "give"]
+  },
+  {
+    "question": "I am going to wear it ... my birthday.",
+    "correctAnswer": "to",
+    "options": ["to", "too", "give", "some"]
+  },
+  {
+    "question": "I will save you ... cake.",
+    "correctAnswer": "some",
+    "options": ["some", "just", "to", "give"]
+  },
+  {
+    "question": "Give my love ... everyone.",
+    "correctAnswer": "to",
+    "options": ["to", "too", "some", "just"]
+  },
+  {
+    "question": "I am never ....",
+    "correctAnswer": "late",
+    "options": ["late", "meetings", "park", "shop"]
+  },
+  {
+    "question": "In the mornings, I attend ....",
+    "correctAnswer": "meetings",
+    "options": ["meetings", "late", "shop", "cook"]
+  },
+  {
+    "question": "I eat lunch in the ....",
+    "correctAnswer": "park",
+    "options": ["park", "shop", "cook", "meetings"]
+  },
+  {
+    "question": "I buy food from the ....",
+    "correctAnswer": "shop",
+    "options": ["shop", "park", "late", "cook"]
+  },
+  {
+    "question": "I always ... dinner for myself.",
+    "correctAnswer": "cook",
+    "options": ["cook", "shop", "late", "park"]
+  }
+]

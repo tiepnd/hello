@@ -4,4 +4,9 @@ import vue from '@vitejs/plugin-vue'
 export default defineConfig({
   plugins: [vue()],
   base: '/hello/',   // ⚠️ "hello" = tên repo GitHub
+  resolve: {
+    alias: {
+      '@': '/src',
+    },
+  },
 })

@@ -1,0 +1,153 @@
+[
+  {
+    "id": 1,
+    "title": "Submitting your assignment",
+    "sentences": [
+      "First, it is a good idea to read your work and correct spelling mistakes.",
+      "When you have corrected all the mistakes, print out your assignment.",
+      "Also, remember to print a separate cover sheet and attach it to your assignment.",
+      "You hand your assignment and attached document to the front desk in the office.",
+      "A staff member will check and confirm that you completed it."
+    ],
+    "correctOrder": [1, 2, 3, 4, 5],
+    "tips": [
+      "Look for sequence connectors like 'First', 'Next', 'Finally'.",
+      "Notice logical steps: check -> print -> attach -> submit -> confirm."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Instructions for students starting the course",
+    "sentences": [
+      "When you arrive at the university, go to the help desk.",
+      "A member of staff will ask for your name and your address.",
+      "He or she will enter your information into the computer and give you an identification card.",
+      "You can use this card to borrow books in the library or access the online study materials.",
+      "You will find these links on your home page."
+    ],
+    "correctOrder": [1, 2, 3, 4, 5],
+    "tips": [
+      "Look for logical steps: arrive -> register -> receive card -> use card -> find links."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Key card (Thẻ chìa khóa)",
+    "sentences": [
+      "To enter the building and use the lift, you need your key card.",
+      "If you lose this, you will need to see the staff member at the front desk.",
+      "He or she will ask for your name and flat number and then write them down.",
+      "You will also need to show your identification card.",
+      "He or she will make a copy of it and give you a new key card."
+    ],
+    "correctOrder": [1, 2, 3, 4, 5],
+    "tips": [
+      "Follow the sequence: problem -> report -> verify -> show ID -> get new card."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Visitors Day at an animal hospital",
+    "sentences": [
+      "When you arrive, go straight to the main office to collect your ticket.",
+      "You must show this to the member of staff before going to the hospital.",
+      "Inside the building, you will see a photography exhibit.",
+      "Before you look at the pictures, a guide will tell you about the day's event.",
+      "These activities will include playing and feeding the animals."
+    ],
+    "correctOrder": [1, 2, 3, 4, 5],
+    "tips": [
+      "Notice the event flow: arrive -> show ticket -> go inside -> listen -> participate."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Traffic Problems",
+    "sentences": [
+      "They were out of order for several hours, and the traffic was moving very slowly.",
+      "This caused long delays on the roads.",
+      "As a result of the delays, many people were not able to get to work on time.",
+      "Fortunately, by the evening, the traffic lights worked again.",
+      "Therefore, there was no further delay, and people could get home after work."
+    ],
+    "correctOrder": [1, 2, 3, 4, 5],
+    "tips": [
+      "Follow cause and effect: issue -> consequence -> impact -> fix -> result."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Instruction for end of term report",
+    "sentences": [
+      "Before you start to write your report, you should look at websites for the information you need.",
+      "Remember to save links to websites and include them in your report.",
+      "You should also include a list of books that you use for reference.",
+      "When you have finished your report, correct all mistakes.",
+      "After you make the corrections, send your report by email."
+    ],
+    "correctOrder": [1, 2, 3, 4, 5],
+    "tips": [
+      "Process order: research -> save links -> add references -> correct -> send."
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Printer (Quy trình dùng máy in)",
+    "sentences": [
+      "Firstly, find an appropriate place to put the printer in.",
+      "When the printer is in place, turn it on by switching the buttons on the sides.",
+      "A light comes on at the front of the printer when the power is on.",
+      "If the light is green, the printer is ready to use.",
+      "Before using it, remember to put some paper into the tray."
+    ],
+    "correctOrder": [1, 2, 3, 4, 5],
+    "tips": [
+      "Follow logical setup: place device → power on → check light → confirm ready → add paper."
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Attending a conference (Tham dự hội nghị)",
+    "sentences": [
+      "When you have a conference pass, go to the lifts on the right.",
+      "Take the lift to the third floor and go to the main desk.",
+      "Show your pass from the conference to a member of staff at the desk.",
+      "He or she will tell you your seat numbers for the talk at the main hall.",
+      "Once you are in the hall, someone will help you find your seat."
+    ],
+    "correctOrder": [1, 2, 3, 4, 5],
+    "tips": [
+      "Think of the sequence: get pass → go upstairs → show pass → get seat info → find your seat."
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Fire instructions (Hướng dẫn khi gặp hoả hoạn)",
+    "sentences": [
+      "When you hear the alarm, leave your bags and belongings at the desk.",
+      "Next, walk calmly to the doors marked 'Emergency Exit.'",
+      "Through these doors, you will see the stairs.",
+      "When you reach the bottom of these stairs, leave the building through the front entrance.",
+      "Outside, gather on the grass and wait for further instructions."
+    ],
+    "correctOrder": [1, 2, 3, 4, 5],
+    "tips": [
+      "Emergency flow: alarm → exit → stairs → leave building → gather outside."
+    ]
+  },
+  {
+    "id": 10,
+    "title": "A school science textbook (Sách khoa học trong trường học)",
+    "sentences": [
+      "The first step is to find out how much you know about the problem.",
+      "The next one is to form a hypothesis or an idea based on the information you have.",
+      "Then, you need to perform experiments to see if these ideas are true or not.",
+      "You can also compare your results with experiments in the past.",
+      "In this way, you add to the knowledge about the subject for future experiments."
+    ],
+    "correctOrder": [1, 2, 3, 4, 5],
+    "tips": [
+      "Scientific process: identify problem → form hypothesis → test → compare → expand knowledge."
+    ]
+  }
+]
