@@ -141,7 +141,6 @@ const showTryAgain = ref(false)
 
 const currentTopic = computed(() => topics.value[currentTopicIndex.value])
 const currentParagraph = computed(() => currentTopic.value.paragraphs[currentParagraphIndex.value])
-const isLastTopic = computed(() => currentTopicIndex.value === topics.value.length - 1)
 
 onMounted(() => {
   shuffleQuestionsForAllTopics()
