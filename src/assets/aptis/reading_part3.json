@@ -1,0 +1,480 @@
+[
+  {
+    "topic": "Opinions on flying",
+    "paragraphs": [
+      {
+        "id": "A",
+        "text": "I have a dream of working as a tour guide. So I understand that I will have to fly to other countries. In my personal opinion, airplanes are currently too cheap compared to the damage they cause to the environment, so I believe we should add taxes to airline ticket prices to make people choose to use other means of transport before they think about flying. I believe that people are also very happy when they can contribute to protecting the environment."
+      },
+      {
+        "id": "B",
+        "text": "My family and siblings live quite far from me. So I often have to fly to visit them every month when I have time. We really appreciate the time we spent together, and we are happy to be able to meet each other and share our new story. I know that traveling by plane too much is not good for the environment, so I often shop online or go to work by bike instead of going by car or reusing plastic bags and paper bags. In addition, I sometimes volunteer to clean up trash in the neighborhood."
+      },
+      {
+        "id": "C",
+        "text": "I'm a businessman so I have to fly many times a week. I have to go to other countries to be able to sign wine trading contracts with them. I don't like flying. Now, my sister and I, whenever we have free time, take the train together, and we enjoy that time very much because I can travel while sightseeing and relax without any stress."
+      },
+      {
+        "id": "D",
+        "text": "If I have to go somewhere, I will choose other means of public transport, not planes. Every time I go on a plane, I feel extremely tired, and I just hope time passes quickly so I can get off that plane. However, due to the specific nature of my job, I have to film in many different locations, so sometimes I cannot avoid having to take this public transportation."
+      }
+    ],
+    "questions": [
+      {
+        "id": 1,
+        "question": "Who suggests making flights more expensive?",
+        "correctAnswer": "A"
+      },
+      {
+        "id": 2,
+        "question": "Who wants to work in other countries?",
+        "correctAnswer": "A"
+      },
+      {
+        "id": 3,
+        "question": "Who visits relatives regularly?",
+        "correctAnswer": "B"
+      },
+      {
+        "id": 4,
+        "question": "Who tries to protect the environment?",
+        "correctAnswer": "B"
+      },
+      {
+        "id": 5,
+        "question": "Who likes relaxing while they travel?",
+        "correctAnswer": "C"
+      },
+      {
+        "id": 6,
+        "question": "Who finds flying tiring?",
+        "correctAnswer": "D"
+      },
+      {
+        "id": 7,
+        "question": "Who needs to fly for their work?",
+        "correctAnswer": "D"
+      }
+    ]
+  },
+  {
+    "topic": "Visit a city",
+    "paragraphs": [
+      {
+        "id": "A",
+        "text": "When I first came to this city, I felt very scared because this city is very big. The city has many parts, and the shopping part is very far from the green part. However, we already had the bus route, and we signed up to take the bus for a full day. Buses are very cheap and very convenient. I feel very lucky not to have to put pressure on my sore feet."
+      },
+      {
+        "id": "B",
+        "text": "I don't like big cities and rarely go out. But I go to Stevenson City very often. I go there about five to seven times a year. There is an area outside the city. In that area, there are many things that I need. There is a lot of water, a natural area, a small forest, and a special camping area. I really like coming to this place to rest. It also has a great coffee serving area for visitors."
+      },
+      {
+        "id": "C",
+        "text": "I went to this city last summer and really liked the atmosphere of this city. The reason I like the atmosphere here is because it has a lot of public performances. These performances often take place in front of department stores, so this prevents me from shopping inside those stores. I was very surprised when I came home with an empty bag, and I didn't buy anything."
+      },
+      {
+        "id": "D",
+        "text": "When I go out, I only care about two things: good food and good play. I especially liked the lunch I had in this city, it was delicious, and I really want to come back here next time. However, I guess it's a bit expensive, and I have to walk a long way to get there. However, it didn't matter because I had a wonderful day."
+      }
+    ],
+    "questions": [
+      {
+        "id": 1,
+        "question": "Who thinks the public transport system was good?",
+        "correctAnswer": "A"
+      },
+      {
+        "id": 2,
+        "question": "Who thinks walking too much causes a problem?",
+        "correctAnswer": "A"
+      },
+      {
+        "id": 3,
+        "question": "Who likes the natural resort here?",
+        "correctAnswer": "B"
+      },
+      {
+        "id": 4,
+        "question": "Who visits one part of the city?",
+        "correctAnswer": "B"
+      },
+      {
+        "id": 5,
+        "question": "Who likes the public theater that the city puts on?",
+        "correctAnswer": "C"
+      },
+      {
+        "id": 6,
+        "question": "Who usually spends a lot of money on shopping?",
+        "correctAnswer": "C"
+      },
+      {
+        "id": 7,
+        "question": "Who pays a lot for their meal?",
+        "correctAnswer": "D"
+      }
+    ]
+  },
+  
+    {
+      "topic": "Reading books",
+      "paragraphs": [
+        {
+          "id": "A",
+          "text": "My wife often complains about not having time to read, and I say we have to make our own time. So, I often calculate my free time on my phone so I can know in advance whether I should bring a book to read on the train. My wife often laughs at me for doing so, but I don't mind as long as I can finish reading so many books."
+        },
+        {
+          "id": "B",
+          "text": "I used to struggle very much to finish reading a book that we were expected to read. However, now that I read for my own pleasure, I don't mind too much. I usually don't limit myself to reading one at a time. There are so many titles I can choose from that get me excited. I have a list of books that I want to read in the future."
+        },
+        {
+          "id": "C",
+          "text": "I often keep a book on the bedside table to read before going to bed. The problem is that I get tired after reading only half a page and fall asleep. So, I've been reading that one book for half a year now and have only read chapter 2. However, when I read factual books, I find them very interesting, and they keep me awake for hours."
+        },
+        {
+          "id": "D",
+          "text": "My job requires reading a lot of books. These books include a lot of facts and figures, and they are very boring. When I have free time, I usually want to read light books, like mystery novels or comedies. I often read on the train to work. I have a young child, so when I come home I almost don't have time to read. Therefore, I have to read books when travelling by train. So, a book can last me a week."
+        }
+      ],
+      "questions": [
+        { "id": 1, "question": "Who plans their reading schedule", "correctAnswer": "A" },
+        { "id": 2, "question": "Who reads more than another family member", "correctAnswer": "A" },
+        { "id": 3, "question": "Who reads many books at once", "correctAnswer": "B" },
+        { "id": 4, "question": "Who wants to read a lot of books", "correctAnswer": "B" },
+        { "id": 5, "question": "Who is having difficulty in finishing a book", "correctAnswer": "C" },
+        { "id": 6, "question": "Who thinks that factual books are boring", "correctAnswer": "D" },
+        { "id": 7, "question": "Who has limited time to read books", "correctAnswer": "D" }
+      ]
+    },
+    {
+      "topic": "Sports / Doing exercise",
+      "paragraphs": [
+        {
+          "id": "A",
+          "text": "Exercising with friends is a fantastic idea, don't you think? It adds a fun element to the workout routine. It's important to fuel our bodies properly, though. After a good workout, I always make sure to have a nutritious meal to replenish energy and support muscle recovery."
+        },
+        {
+          "id": "B",
+          "text": "Establishing a consistent workout routine has really helped me stay on track with my fitness goals. It's amazing how much more I can accomplish when I have a structured plan in place. Plus, it keeps me accountable and ensures I make time for physical activity every day."
+        },
+        {
+          "id": "C",
+          "text": "Age is just a number when it comes to exercise. Whether you're young or old, staying active is crucial for maintaining overall health and vitality. While competitions can be motivating for some, they're not necessarily suitable for everyone. It's important to find activities that are enjoyable and sustainable for each individual."
+        },
+        {
+          "id": "D",
+          "text": "Experiencing pain during exercise isn't necessary, and it's a sign that something may be wrong. It's important to listen to our bodies and seek expert advice when needed, whether it's from a trainer, physical therapist, or medical professional. Taking care of ourselves properly ensures we can continue to enjoy physical activity without risking injury."
+        }
+      ],
+      "questions": [
+        { "id": 1, "question": "Who thinks working out with friends is a good idea", "correctAnswer": "A" },
+        { "id": 2, "question": "Who thinks a proper meal is important", "correctAnswer": "A" },
+        { "id": 3, "question": "Who thinks a routine can help us do more sport", "correctAnswer": "B" },
+        { "id": 4, "question": "Who thinks exercise is for both the young and the elderly", "correctAnswer": "C" },
+        { "id": 5, "question": "Who thinks competitions are not useful for everybody", "correctAnswer": "C" },
+        { "id": 6, "question": "Who thinks experiencing pain is not necessary", "correctAnswer": "D" },
+        { "id": 7, "question": "Who thinks at times, we seek expert advice", "correctAnswer": "D" }
+      ]
+    },
+    {
+      "topic": "Watching TV",
+      "paragraphs": [
+        {
+          "id": "A",
+          "text": "I know I have to spend time studying, but there are so many great TV shows, especially horror shows. Once you watch one, you will be glued to it and can't stop watching. Besides, these TV shows often last for many weeks."
+        },
+        {
+          "id": "B",
+          "text": "I often spend time watching the news on TV in the evening when I'm free. In the past, I often watched the soccer team I liked on TV, but they often lost, so I gave up watching them. Nowadays there are too many reality TV shows being shown on TV. Every time I see these shows, I turn them off and do more interesting things."
+        },
+        {
+          "id": "C",
+          "text": "I wasn't good when I was in school because I often spent time watching cartoons on TV. However, I now watch nature documentaries and TV shows about science, history, and business. This helps me expand my knowledge a lot compared to when I was in school."
+        },
+        {
+          "id": "D",
+          "text": "My husband usually schedules TV viewing for the weekend. He usually watches football or documentaries. I'm the opposite. I just turn on the TV, and it doesn't matter what program it is because I just need to relax. However, I also want to update news about movies — not just movies but also songs. I also find reality TV shows very entertaining."
+        }
+      ],
+      "questions": [
+        { "id": 1, "question": "Who watches TV instead of studying", "correctAnswer": "A" },
+        { "id": 2, "question": "Who likes TV programs which continue over several weeks", "correctAnswer": "A" },
+        { "id": 3, "question": "Who avoids watching reality TV programs", "correctAnswer": "B" },
+        { "id": 4, "question": "Who lost interest in watching football on TV", "correctAnswer": "B" },
+        { "id": 5, "question": "Who gets a lot of knowledge by watching TV", "correctAnswer": "C" },
+        { "id": 6, "question": "Who isn't a very selective viewer", "correctAnswer": "D" },
+        { "id": 7, "question": "Who keeps up to date on cinema and music", "correctAnswer": "D" }
+      ]
+    },
+    {
+      "topic": "Eating and cooking",
+      "paragraphs": [
+        {
+          "id": "A",
+          "text": "When I was a kid, I was often given ready-made or junk food when I was at home, although I don't want to blame my parents. Since then, I try to eat at restaurants as much as possible. The food at the restaurant is not very diverse, but for me, that is not a problem. What matters to me when going out to eat is who you go with. I often eat with colleagues or close friends when I get off work, it's very fun."
+        },
+        {
+          "id": "B",
+          "text": "I used to often go to the most fashionable and luxurious restaurants to eat. However, now, I'm back to being a student, and my finances won't stretch that far. Therefore, I often cook for myself and watch recipes and cooking methods on the internet. That helps me to be able to focus on my studies without losing concentration."
+        },
+        {
+          "id": "C",
+          "text": "Going to a restaurant is for the social atmosphere, and I am not bothered to eat alone either. What's important to me is the variety of dishes. Therefore, I eat at as many places as possible, even though they are a bit pricey. That's why I joined the cooking club, where I can learn many new recipes and also meet many friends."
+        },
+        {
+          "id": "D",
+          "text": "I don't understand why so many people want to find many different recipes for one dish. I know clearly what I like and I eat exactly that food. My dad is a good cook, he knows what ingredients I don't like to eat, which obviously are a lot. I love being home and eating with my family."
+        }
+      ],
+      "questions": [
+        { "id": 1, "question": "Who likes to eat with friends", "correctAnswer": "A" },
+        { "id": 2, "question": "Who prefers to eat alone", "correctAnswer": "B" },
+        { "id": 3, "question": "Who needs to save money", "correctAnswer": "B" },
+        { "id": 4, "question": "Who likes to eat a wide range of dishes", "correctAnswer": "C" },
+        { "id": 5, "question": "Who takes a cookery course", "correctAnswer": "C" },
+        { "id": 6, "question": "Who only wants to eat a few range of food", "correctAnswer": "D" },
+        { "id": 7, "question": "Who likes home cooked food", "correctAnswer": "D" }
+      ]
+    },
+    {
+      "topic": "Volunteering to clean a local park",
+      "paragraphs": [
+        {
+          "id": "A",
+          "text": "I feel very lucky to have this park here. My family and I often go to the park because of the natural landscape. It's different from the city, which is very busy and full of dust. Unfortunately, I am away this weekend, so I cannot help with the cleaning. However, I know my brother and his friends will be very interested in this cleanup, so I will ask them if they can help."
+        },
+        {
+          "id": "B",
+          "text": "I'm a very busy person, and I have to spend this weekend with my family because I only have the weekend as free time. I think young people who don't have families should help. Besides, students and schools also have days off on weekends. I think this volunteering will be very helpful for students' future careers."
+        },
+        {
+          "id": "C",
+          "text": "I think this volunteering is a good idea, but it doesn't have a long-term vision. When volunteers clean up the park, it will be clean, but it will become busy again after about a month when tourist season arrives. I think we should clean this park regularly, about once a month. Surrounding areas, such as the lake and local forest, should also be cleaned up. We should also have signs telling visitors to clean up their trash. I am very upset when I see a lot of trash on both sides of the road."
+        },
+        {
+          "id": "D",
+          "text": "My family and I often spend time at the park. My children love going to the park and they find the park a very interesting place to visit. My son has a dream of becoming a biologist so I think cleaning up this park will be very helpful for my son. I think we should pique children's interest in cleaning. They will be more willing to volunteer and help others."
+        }
+      ],
+      "questions": [
+        { "id": 1, "question": "Who thinks the park is a beautiful place to relax", "correctAnswer": "A" },
+        { "id": 2, "question": "Who asks for others to help", "correctAnswer": "A" },
+        { "id": 3, "question": "Who can't clean the park because of their busy work", "correctAnswer": "B" },
+        { "id": 4, "question": "Who thinks volunteering will help with future employment", "correctAnswer": "B" },
+        { "id": 5, "question": "Who thinks local areas need cleaning", "correctAnswer": "C" },
+        { "id": 6, "question": "Who thinks the cleaning needs to be done regularly", "correctAnswer": "C" },
+        { "id": 7, "question": "Who thinks volunteering is important for students", "correctAnswer": "D" }
+      ]
+    },
+      {
+        "topic": "Art",
+        "paragraphs": [
+          {
+            "id": "A",
+            "text": "I know a little about famous painters and their works. But I don't like going to art exhibitions unless my friend invites me. I like extracurricular activities more, painting exhibitions seem too quiet to me. I like to draw, and I have been drawing ever since I can remember. My forte in drawing is animals, especially big and ferocious animals."
+          },
+          {
+            "id": "B",
+            "text": "I find going to see paintings similar to reading books. You must look and read before discussing. When I go to exhibitions with my friends, they often talk before seeing the painting, and what they talk about isn't even about the painting, that annoys me."
+          },
+          {
+            "id": "C",
+            "text": "I find polite art very fascinating. I often go to talks about the arts and I have gone to many foreign art exhibitions and artists' houses. It's great to see their works and where they worked."
+          },
+          {
+            "id": "D",
+            "text": "My parents often took me to see art exhibitions when I was a child. and I think that habit remains. Currently, I often take my children to the exhibition, which is a lovely activity for me. I often ask my children to do other activities while looking at pictures, for example, think of a story for that picture, so they don't get bored."
+          }
+        ],
+        "questions": [
+          { "id": 1, "question": "Who has some artistic skills", "correctAnswer": "A" },
+          { "id": 2, "question": "Who thinks seeing exhibitions is a boring activity", "correctAnswer": "A" },
+          { "id": 3, "question": "Who prefers seeing exhibitions by themselves", "correctAnswer": "B" },
+          { "id": 4, "question": "Who thinks visitors should focus on the art", "correctAnswer": "B" },
+          { "id": 5, "question": "Who has a good knowledge of art", "correctAnswer": "C" },
+          { "id": 6, "question": "Who prefers going to art exhibitions with other people", "correctAnswer": "D" },
+          { "id": 7, "question": "Who has been going to art exhibitions all their life", "correctAnswer": "D" }
+        ]
+      },
+      {
+        "topic": "Watching a film/movie",
+        "paragraphs": [
+          {
+            "id": "A",
+            "text": "This is the second time I've watched this movie but it still makes me feel restless and anxious. Every time there are sudden scary scenes, my heart feels like it's going to jump out. I think the director and actors made this movie very successful in scaring the audience."
+          },
+          {
+            "id": "B",
+            "text": "I feel like going to the cinema is a waste of money so I watched this movie at home with my family, and we had a very good time together. One thing about this movie that makes me excited is the plot of the movie. The film progresses very logically, the storylines are cleverly and skillfully arranged to express the character's psychology in the most complete way. That's one thing I like most about this movie."
+          },
+          {
+            "id": "C",
+            "text": "It was a holiday weekend and my college friends and I had planned to go see this movie at the cinema. We had a great time together watching that horror movie. However, I feel that this movie is not as scary as rumored. When I finished watching, I didn't feel any impression or fear at all."
+          },
+          {
+            "id": "D",
+            "text": "I read the book for the movie, and to be fair, the movie wasn't as good as the book. If you want to understand more about this movie, you should read its book before you watch the movie. For me, the length of this movie is terrible; the movie lasts over 3 hours, while only half the time is needed for all that content."
+          }
+        ],
+        "questions": [
+          { "id": 1, "question": "Who saw the film previously", "correctAnswer": "A" },
+          { "id": 2, "question": "Who found the film scary", "correctAnswer": "A" },
+          { "id": 3, "question": "Who saw the film at home", "correctAnswer": "B" },
+          { "id": 4, "question": "Who enjoyed the story of the film", "correctAnswer": "B" },
+          { "id": 5, "question": "Who saw the movies with friends", "correctAnswer": "C" },
+          { "id": 6, "question": "Who thought the film was too long", "correctAnswer": "D" },
+          { "id": 7, "question": "Who read the book of the film", "correctAnswer": "D" }
+        ]
+      },
+      {
+        "topic": "Plan for a new station",
+        "paragraphs": [
+          {
+            "id": "A",
+            "text": "I see too many people who do not arrange a good time to travel to work, they often arrive at work late. I always think in advance about what time I will get to work tomorrow and what means of transport I will use."
+          },
+          {
+            "id": "B",
+            "text": "Buses are often full of people, especially during rush hour. This makes me very uncomfortable when I have to travel to work by bus. The public transportation improvement plan proposed by the city is very reasonable and it will improve the above situation a lot."
+          },
+          {
+            "id": "C",
+            "text": "In my opinion, the bus is very clean and comfortable to travel. I find it has a lot of space for everyone, and the bus system is also very large. Therefore, I think improving the public transport system is unnecessary, while the old system is still good."
+          },
+          {
+            "id": "D",
+            "text": "Building a new public transportation system will be very costly. and we all know it's at the expense of residents. I think we should use that money for something more beneficial, which is building more hospitals. Hospitals in this living area are very few."
+          }
+        ],
+        "questions": [
+          { "id": 1, "question": "Who thinks people should plan their journeys better", "correctAnswer": "A" },
+          { "id": 2, "question": "Who thinks the bus is too busy", "correctAnswer": "B" },
+          { "id": 3, "question": "Who thinks the new station will improve train travel", "correctAnswer": "B" },
+          { "id": 4, "question": "Who thinks there is a good bus service", "correctAnswer": "C" },
+          { "id": 5, "question": "Who thinks the public transport doesn't need to improve", "correctAnswer": "C" },
+          { "id": 6, "question": "Who thinks better medical facilities are needed", "correctAnswer": "D" },
+          { "id": 7, "question": "Who thinks the station will cost too much to build", "correctAnswer": "D" }
+        ]
+      },
+      {
+        "topic": "Holiday",
+        "paragraphs": [
+          {
+            "id": "A",
+            "text": "When I travel somewhere, I often ask for bus routes to famous tourist destinations so that I can get to those places as quickly as possible and avoid wasting time going around. Famous tourist destinations are the places I want to explore the most when traveling somewhere. I don't understand why many people just like to sit still at the beach when traveling, I find that uninteresting and time-consuming."
+          },
+          {
+            "id": "B",
+            "text": "My family and I often plan to travel every time we have a vacation. If the weather is nice, then our plans go ahead as usual, if not, we will postpone that vacation. For my family, light wind and warm sunlight are important when we go out. A few of my friends invited me to go climbing, but I'm afraid of heights, so I refused them. However, in the future, I really want to try mountain climbing once."
+          },
+          {
+            "id": "C",
+            "text": "Next month's trip will be the first time I travel to another country. Normally I only travel to famous local places or in my country. These places are beautiful, but I'm so excited to travel to a foreign place once in my life."
+          },
+          {
+            "id": "D",
+            "text": "Last year, I went on a mountain climbing trip with my friends. It was the most horrible trip I have ever experienced. However, after that trip, I had a strong passion for walking. So now, every day I walk as a hobby, and it also helps my health a lot. I'm old so I'm no longer interested in traveling to far away places. Instead, I want to lie on a comfortable sofa and watch my favorite TV show."
+          }
+        ],
+        "questions": [
+          { "id": 1, "question": "Who thinks going to the beach is boring", "correctAnswer": "A" },
+          { "id": 2, "question": "Who likes seeing tourist attractions", "correctAnswer": "A" },
+          { "id": 3, "question": "Who thinks holiday requires good weather", "correctAnswer": "B" },
+          { "id": 4, "question": "Who likes to go on a mountaineering holiday", "correctAnswer": "B" },
+          { "id": 5, "question": "Who has never been abroad", "correctAnswer": "C" },
+          { "id": 6, "question": "Who likes going walking", "correctAnswer": "D" },
+          { "id": 7, "question": "Who prefers staying at home on holidays", "correctAnswer": "D" }
+        ]
+      },
+      {
+        "topic": "Eating at a restaurant",
+        "paragraphs": [
+          {
+            "id": "A",
+            "text": "This is my first time coming to this restaurant. The food is very cheap but the quality is excellent. I was very surprised with the starter because its menu is very diverse. but there is one thing that I want the restaurant to improve. The music was too low, and it didn't make the meal atmosphere lively. Next time turn the music louder, please!"
+          },
+          {
+            "id": "B",
+            "text": "This is a very famous restaurant that I saw in the newspaper. Sadly, I arrived later than the rest of the party, so I didn't get to order dinner. However, I ordered orange juice and mango juice and they were both delicious. What about the surroundings? Lively music, along with fashionable and appropriate decor, makes me feel very comfortable."
+          },
+          {
+            "id": "C",
+            "text": "I'm not sure if I will return to this restaurant. I think the staff was arguing when I got there because the atmosphere here was not very comfortable. As for the food, I think there's nothing to write about. I ordered fish and chips, it wasn't bad, but it wasn't good either. But many people say that the food here is fabulous. So, I think I'm an exception."
+          },
+          {
+            "id": "D",
+            "text": "I don't understand why this restaurant is so famous. When I arrived and saw a menu with lots of different dishes, I saw this as a bad sign. Furthermore, the menu with traditional dishes contrasting with the modern decoration style made me feel very confused and strange. The staff here are also not friendly. This was one of my worst experiences eating at a restaurant."
+          }
+        ],
+        "questions": [
+          { "id": 1, "question": "Who was impressed by the range of the appetizers", "correctAnswer": "A" },
+          { "id": 2, "question": "Who thinks the music was too quiet", "correctAnswer": "A" },
+          { "id": 3, "question": "Who didn't eat anything", "correctAnswer": "B" },
+          { "id": 4, "question": "Who enjoyed the atmosphere of the restaurant", "correctAnswer": "B" },
+          { "id": 5, "question": "Who thought the quality of the food is average", "correctAnswer": "C" },
+          { "id": 6, "question": "Who thinks their bad experience was probably unusual", "correctAnswer": "C" },
+          { "id": 7, "question": "Who definitely will not come back to the restaurant again", "correctAnswer": "D" }
+        ]
+      },
+      {
+        "topic": "Visit an island",
+        "paragraphs": [
+          {
+            "id": "A",
+            "text": "I like traveling to the beach. I think I have to walk quite a distance from the hotel to the beach so I think I have to bring boots. however, when I opened the suitcase, I didn't see any boots. But I still completed the trip and visited many beautiful beaches. One great thing is that the beaches are in remote areas, so there are very few tourists. However, it also makes finding food and drinks more difficult."
+          },
+          {
+            "id": "B",
+            "text": "As an architect, I have always been interested in how buildings are constructed. So when I travel, I never spend time lying on the beach or buying souvenirs. I will go around the area to see the architecture of the houses. I chose to go around by taxi, it was great. However, it cost me a lot because I traveled alone and had no one to share the costs with. But for me, this was still a great experience because I got to see many old houses."
+          },
+          {
+            "id": "C",
+            "text": "The sharp bends of the island made me abandon the idea of renting a car, because it was very dangerous. I decided to take the bus, it was also much cheaper. However, the bus routes are quite few and there are many time constraints. We toured the neighborhoods on foot. I loved this experience because I could see many beautiful sights."
+          },
+          {
+            "id": "D",
+            "text": "There's a lot of food here, and I spend most of my time eating. I can't recommend any of the dishes because they are all very impressive. If you want to cook for yourself, you will have to take the bus to the market. Don't forget to visit the street market because they sell a lot of cool local products. I have a lot of good bargains there. I loved eating food here."
+          }
+        ],
+        "questions": [
+          { "id": 1, "question": "Who forgot to bring something", "correctAnswer": "A" },
+          { "id": 2, "question": "Who liked to be alone", "correctAnswer": "A" },
+          { "id": 3, "question": "Who spent a lot of money on transport", "correctAnswer": "B" },
+          { "id": 4, "question": "Who thought public transport could be improved", "correctAnswer": "C" },
+          { "id": 5, "question": "Who liked to walk", "correctAnswer": "C" },
+          { "id": 6, "question": "Who liked buying things on the island", "correctAnswer": "D" }
+        ]
+      },
+
+      {
+        "topic": "Using the Internet",
+        "paragraphs": [
+          {
+            "id": "A",
+            "text": "I moved to a new country, and it is challenging to stay in touch with relatives, but thanks to technology, I can now easily contact my family. I rely on technology a lot for this reason, and I believe many people nowadays depend on it too. It makes sense, and I have no issues with that. Technology has made staying connected much more convenient and accessible for all of us."
+          },
+          {
+            "id": "B",
+            "text": "I work in finance, and it is normal for me to use technology to update international banking information and I am an accountant. However, looking at the screen for too long makes my eyes hurt. Also, using my phone for extended periods before bedtime affects my sleep, so I avoid it after 9 p.m. to ensure a good night's rest."
+          },
+          {
+            "id": "C",
+            "text": "Our family uses technology a lot. My sister called mom even inside the house! Although my dad told us not to use the phone at night, I use it anyway. I find it convenient to watch movies and listen to music. I also use it to play games with friends. My friends always have the most updated games, which puts pressure on me to buy the latest as soon as I can. I don't want to lag behind them."
+          },
+          {
+            "id": "D",
+            "text": "I am a professional painter, which is not traditionally connected to technology, but perhaps I will use it more in the future. I have a laptop at home. Whenever I use it, my daughter becomes really interested, so I have to keep it locked away. Although some of my friends say that children should learn to use computers early, I think technology can negatively affect their brain development."
+          }
+        ],
+        "questions": [
+          { "id": 1, "question": "Who uses technology to communicate with family", "correctAnswer": "A" },
+          { "id": 2, "question": "Who believes that people depend too much on technology", "correctAnswer": "A" },
+          { "id": 3, "question": "Who uses technology for work purposes", "correctAnswer": "B" },
+          { "id": 4, "question": "Who advises against using technology before going to sleep", "correctAnswer": "B" },
+          { "id": 5, "question": "Who uses technology for entertainment", "correctAnswer": "C" },
+          { "id": 6, "question": "Who buys the latest technology products", "correctAnswer": "C" },
+          { "id": 7, "question": "Who thinks children shouldn't use technology", "correctAnswer": "D" }
+        ]
+      }
+      
+]

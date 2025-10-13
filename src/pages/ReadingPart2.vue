@@ -32,7 +32,8 @@
                v-for="sentence in shuffledSentences" 
                :key="sentence"
                class="bg-white hover:bg-blue-50 border-2 border-gray-300 hover:border-blue-400 rounded-xl p-8 cursor-move transition-all duration-300 shadow-md hover:shadow-xl transform hover:-translate-y-1 min-h-[50px] flex items-center"
-             >
+               style="margin-bottom: 10px; padding: 10px;" 
+               >
                <div class="flex items-center w-full">
                  <div class="flex-shrink-0 mr-6">
                  </div>
@@ -109,7 +110,7 @@
         </div>
 
         <!-- Next Question Button -->
-        <div v-if="showNextButton" class="text-center mt-6">
+        <div class="text-center mt-6">
           <button 
             @click="nextQuestion"
             class="bg-indigo-500 hover:bg-indigo-600 text-white px-8 py-3 rounded-lg font-medium text-lg transition-colors duration-200 shadow-md hover:shadow-lg"
