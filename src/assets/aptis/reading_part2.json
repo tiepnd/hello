@@ -149,5 +149,244 @@
     "tips": [
       "Scientific process: identify problem → form hypothesis → test → compare → expand knowledge."
     ]
-  }
+  },
+    {
+      "id": 11,
+      "title": "Instructions for submitting files (Hướng dẫn nộp file)",
+      "sentences": [
+        "In your account, press 'open a new window'.",
+        "When you do this, a new window will open.",
+        "Simply drag or drop your files into the window.",
+        "Once the file is there, go back to your account and press the send button to submit.",
+        "Finally, check your email for confirmation of submission."
+      ],
+      "correctOrder": [1, 2, 3, 4, 5],
+      "tips": [
+        "Sequence: open → upload → send → confirm."
+      ]
+    },
+    {
+      "id": 12,
+      "title": "A famous football player - Zidane",
+      "sentences": [
+        "As a child, he played for several teams close to his home in Marseille.",
+        "He then left home to join Cannes Football Club in the south of France.",
+        "While he was in the club, he was seen as a talented player.",
+        "Later, he left France to advance his career in Italy and Spain, where he eventually stopped playing.",
+        "Since retiring, he has worked as a manager for a football club."
+      ],
+      "correctOrder": [1, 2, 3, 4, 5],
+      "tips": [
+        "Think: childhood → join club → show talent → career abroad → retired manager."
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Delivery man (Nhân viên giao hàng)",
+      "sentences": [
+        "You should arrive at the main office by 6:30 am and collect your keys.",
+        "In the office, you can also collect a map of your route.",
+        "You must follow the route on the map to deliver packages.",
+        "When you have completed all deliveries, return to your office.",
+        "You must return your keys to the office manager after you get back."
+      ],
+      "correctOrder": [1, 2, 3, 4, 5],
+      "tips": [
+        "Routine: collect → get route → deliver → return → hand back keys."
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Guides to the Natural History Center (Hướng dẫn đến Trung tâm Lịch sử Tự nhiên)",
+      "sentences": [
+        "The most important of these is the Natural History Center.",
+        "The entrance to the center is on the town's main square.",
+        "As you enter the square, you will see a set of stairs to your left.",
+        "The ticket office is at the top of these steps; the staff there are very helpful.",
+        "As well as selling tickets, the staff provide maps and useful tour information."
+      ],
+      "correctOrder": [1, 2, 3, 4, 5],
+      "tips": [
+        "Direction order: identify → locate → move → reach → get info."
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Dream of space travel (Ước mơ du hành vũ trụ)",
+      "sentences": [
+        "When she was young, she liked looking at the stars and hoped to visit them.",
+        "Because of this, she studied hard at school and university.",
+        "Her hard work was successful because American Space invited her.",
+        "They invited her to join the team and train.",
+        "After one year of training, she was selected from hundreds to fly to the moon."
+      ],
+      "correctOrder": [1, 2, 3, 4, 5],
+      "tips": [
+        "Progression: dream → study → get invited → train → achieve dream."
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Early life of Jay Mist (Thời thơ ấu của Jay Mist)",
+      "sentences": [
+        "When he was young, his parents left their country and moved to the United States.",
+        "He started his high school and began strength training in his free time.",
+        "Jay was very good at that, and he participated in a bodybuilding competition.",
+        "At one of these events, an actor agent saw him and gave him a starring role."
+      ],
+      "correctOrder": [1, 2, 3, 4],
+      "tips": [
+        "Life story: move → train → compete → discovered."
+      ]
+    },
+    {
+      "id": 18,
+      "title": "How to plant potatoes (Quy trình trồng khoai tây)",
+      "sentences": [
+        "All you need is some earth, a big spot, and some old potatoes.",
+        "An old potato has little roots, a little green, and won't be good for eating.",
+        "This color means it is perfect for growing; then you dig a hole in the earth and put it deep down.",
+        "When you've done this, place it in a sunny place and water it every day.",
+        "This care will help the potato grow in a couple of weeks."
+      ],
+      "correctOrder": [1, 2, 3, 4, 5],
+      "tips": [
+        "Steps: prepare → select → plant → care → grow."
+      ]
+    },
+    {
+      "id": 19,
+      "title": "The life of Albert Einstein (Cuộc đời của Albert Einstein)",
+      "sentences": [
+        "As a child, he moved to a new city in Germany, where he discovered his love for science and math.",
+        "His best friend in his new class shared his interest in inventions and helped him explore new ideas.",
+        "She later became his wife, supporting him through his studies and scientific discoveries.",
+        "These were so advanced that they changed the way people thought about physics and the universe.",
+        "Princeton University in the USA invited him to become a professor for his outstanding scientific discoveries."
+      ],
+      "correctOrder": [1, 2, 3, 4, 5],
+      "tips": [
+        "Timeline: childhood → friendship → marriage → achievements → recognition."
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Tom Harper",
+      "sentences": [
+        "When he was young, he began writing short stories for a magazine.",
+        "He soon wrote regularly for that magazine, sharing his creative ideas with many readers.",
+        "At one point, he almost left his job, but then he decided to create unusual characters.",
+        "The characters he imagined became some of the most famous in literature.",
+        "This popularity made Tom Harper rich and successful."
+      ],
+      "correctOrder": [1, 2, 3, 4, 5],
+      "tips": [
+        "Development: start writing → publish → struggle → create success → fame."
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Race for Charity (Cuộc đua từ thiện)",
+      "sentences": [
+        "On arrival at the park, please go to the information point at the North Gate.",
+        "Runners must register here at least half an hour before the race starts at 9 a.m.",
+        "To do this, you just need to show your photo card.",
+        "In return, a member of staff will give you a numbered armband to wear.",
+        "Please put this on immediately and join the others in the warm-up area."
+      ],
+      "correctOrder": [1, 2, 3, 4, 5],
+      "tips": [
+        "Order: arrive → register → show card → get armband → join warm-up."
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Betty Barr's life (Cuộc đời của Betty Barr)",
+      "sentences": [
+        "She was born in Shanghai in 1933 to an American mother and a father from Scotland.",
+        "At that time, Shanghai was a city filled with many people from different countries.",
+        "After she finished her school, she went to Wellesley College, a famous university in the USA.",
+        "However, she missed China, and applied for a job in Hong Kong, where she taught from 1959 to 1972, and learned to speak Cantonese, the local language.",
+        "In the 1980s, she finally returned to China and still lives with her Shanghai husband, George Wang."
+      ],
+      "correctOrder": [1, 2, 3, 4, 5],
+      "tips": [
+        "Timeline: born → environment → education → work abroad → return home."
+      ]
+    },
+    {
+      "id": 23,
+      "title": "My first car (Chiếc ô tô đầu tiên của tôi)",
+      "sentences": [
+        "I had just passed my test, and was excited to begin driving soon.",
+        "However, I did not have a car, so I started searching for one immediately.",
+        "When I saw an advertisement for a used car, I was interested.",
+        "I called the number on the advert to get more information about it.",
+        "We agreed on a reasonable price after a short negotiation."
+      ],
+      "correctOrder": [1, 2, 3, 4, 5],
+      "tips": [
+        "Process: pass test → need car → find ad → contact seller → buy car."
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Instructions for users of the city car park",
+      "sentences": [
+        "When you arrive, please take a ticket from a machine by the entrance.",
+        "This ticket will have information of time and date.",
+        "Please display the ticket with this information in the window of your car.",
+        "Before you leave, please put the ticket into the machine by the gate.",
+        "The machine will read the information on the ticket and show you how much you have to pay."
+      ],
+      "correctOrder": [1, 2, 3, 4, 5],
+      "tips": [
+        "Steps: take → display → return → pay."
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Using the public cycle / renting a bike",
+      "sentences": [
+        "Go to the collection point and touch the screen with your bank card.",
+        "Choose 'hire the cycle' and follow the instructions to get your release code.",
+        "Enter your code in the lock on the bike and wait for the green light.",
+        "When the light shows, you can unlock the bike and start your journey.",
+        "At the end of your ride, return the bike to any collection point."
+      ],
+      "correctOrder": [1, 2, 3, 4, 5],
+      "tips": [
+        "Cycle hire steps: tap card → follow steps → unlock → ride → return."
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Buying a new house (Mua nhà mới)",
+      "sentences": [
+        "The first and most important step is to assess your personal needs carefully.",
+        "In order to choose the right place, you must research the neighborhood thoroughly.",
+        "The most important factor is the cost of the homes in that area.",
+        "Other factors to consider are the availability of schools, parks, and shops nearby.",
+        "Such requirements will greatly influence your overall satisfaction and happiness."
+      ],
+      "correctOrder": [1, 2, 3, 4, 5],
+      "tips": [
+        "Decision process: needs → research → cost → facilities → satisfaction."
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Instruction to attend the conference (Hướng dẫn tham dự hội nghị)",
+      "sentences": [
+        "When you arrive at the conference hall, show the booking number and then receive a guidebook.",
+        "A staff member will note this down and give you a welcoming package.",
+        "Inside, you will find a schedule of events and the information of the key speaker.",
+        "If you would like to listen to his talk, it is in the main hall.",
+        "After he finishes, there will be time for questions."
+      ],
+      "correctOrder": [1, 2, 3, 4, 5],
+      "tips": [
+        "Steps: check in → receive → read → attend → Q&A."
+      ]
+    }  
 ]
