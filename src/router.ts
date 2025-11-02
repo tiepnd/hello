@@ -12,6 +12,7 @@ import ReadingPart1 from './pages/ReadingPart1.vue'
 import ReadingPart2 from './pages/ReadingPart2.vue'
 import ReadingPart3 from './pages/ReadingPart3.vue'
 import ReadingPart4 from './pages/ReadingPart4.vue'
+import SpeakingPart1 from './pages/SpeakingPart1.vue';
 
 const routes = [
   { path: '/', component: Home },
@@ -35,6 +36,7 @@ const routes = [
   { path: '/english-learning/aptis-quiz/listening', name: 'listening-quiz', component: ListeningQuiz },
   { path: '/english-learning/aptis-quiz/writing', name: 'writing-quiz', component: WritingQuiz },
   { path: '/english-learning/aptis-quiz/speaking', name: 'speaking-quiz', component: SpeakingQuiz },
+  { path: '/english-learning/aptis-quiz/speaking/part1', name: 'speaking-part1', component: SpeakingPart1 },
 ]
 
 const router = createRouter({
